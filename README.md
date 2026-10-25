@@ -3,7 +3,15 @@
 > **"Where Passion Meets Power"**  
 > *"Play With Pride. Rise With Purpose."*
 
-A full-stack **MERN (MongoDB, Express.js, React, Node.js)** web application built for the **D-BALL League 2026**, India's fastest-growing collegiate basketball revolution originating from Delhi University. All content, slogans, sponsorship tiers, and executive details are faithfully structured from the official D-BALL 2026 presentation deck.
+---
+
+## 🚀 Live Deployments
+
+- **🌐 Live Web Application (GitHub Pages)**: [https://anshul2807.github.io/dball/](https://anshul2807.github.io/dball/)
+- **⚡ Production API Server (Vercel)**: [https://server-sandy-two-38.vercel.app/api](https://server-sandy-two-38.vercel.app/api)
+  - Health check: [https://server-sandy-two-38.vercel.app/api/health](https://server-sandy-two-38.vercel.app/api/health)
+  - Upcoming events: [https://server-sandy-two-38.vercel.app/api/events/upcoming](https://server-sandy-two-38.vercel.app/api/events/upcoming)
+- **📦 GitHub Repository**: [https://github.com/anshul2807/dball](https://github.com/anshul2807/dball)
 
 ---
 
