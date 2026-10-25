@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "server.js"
+    }
+  ],
+  "env": {
+    "MONGO_URI": "mongodb+srv://Cluster10305:WmNYYWNrRFxB@cluster10305.8oeti81.mongodb.net/EMS?retryWrites=true&w=majority",
+    "JWT_SECRET": "dball_league_super_secret_jwt_key_2026_passion_power",
+    "NODE_ENV": "production"
+  }
+}
